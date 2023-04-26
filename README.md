@@ -1,3 +1,4 @@
+[![badge text](https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bvsh/)
 # Enhancement of MODIS NIDVI to 10m resolution using U-Net
 
 ![image](https://user-images.githubusercontent.com/47195556/188319601-8b62d39e-9cdf-483c-b837-6381e60c3123.png)
